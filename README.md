@@ -5,12 +5,10 @@
 <div>
   <h4>En développement/In development</h4>
   <ul align="left">
-    <li>https://faangplusapisimplifier.com/<span> (NuGet package)</span></li>
-    <li>https://anthonyboileau.dev/<span> (Portfolio)</span></li>
-  </ul>
-  <h4>Terminés/Completed</h4>
-  <ul align="left">
     <li>https://www.onlinegenerators.ca/</li>
+    <li>https://www.faangplusapisimplifier.com/<span> (NuGet package)</span></li>
+    <li>https://www.anthonyboileau.dev/<span> (Portfolio)</span></li>
+  </ul>
   </ul>
 </div>
 <hr>
