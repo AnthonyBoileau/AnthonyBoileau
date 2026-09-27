@@ -12,6 +12,7 @@
   <h4>Vieux projets/Old projects</h4>
   <ul align="left">
     <li>https://www.faangplusapisimplifier.com/ <span>(obsolete NuGet package)</span></li>
+    <li>https://github.com/AnthonyBoileau/BasicAutoclicker <span>(Basic Autoclicker made in C#)</span></li>
   </ul>
 </div>
 <hr>
