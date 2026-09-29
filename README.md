@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je suis AnthonyBoileau!/Hi 👋, I'm Anthony Boileau</h1>
-<h4 align="center">Tous mes projets sont privés, mais voici quelques informations sur moi/All of my repositories are private but here's some info about me</h1>
+<h4 align="center">Presque tous mes projets sont privés, mais voici quelques informations sur moi/Most of my repositories are private but here's some info about me</h1>
 <hr>
 <h3 align="center"><b>MES SITES WEB/MY WEBSITES</b></h3>
 <div>
